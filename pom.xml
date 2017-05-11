@@ -16,7 +16,7 @@
 
     <modules>
         <module>collect-controller</module>
-        <module>driver</module>
+        <module>collect-driver</module>
         <module>common</module>
         <module>spring-boot-starter-dubbo</module>
     </modules>
