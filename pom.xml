@@ -19,7 +19,7 @@
         <module>collect-driver</module>
         <module>common</module>
         <module>driver-modbusip</module>
-        <module>sdk-driver</module>
+        <module>driver-sdk</module>
         <module>driver-modbusserial</module>
         <module>driver-fake</module>
         <module>driver-melsec</module>
