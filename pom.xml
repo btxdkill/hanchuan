@@ -18,5 +18,6 @@
         <module>collect-controller</module>
         <module>collect-driver</module>
         <module>common</module>
+        <module>driver-modbusip</module>
     </modules>
 </project>

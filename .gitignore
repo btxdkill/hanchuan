@@ -1,7 +1,4 @@
-/collect-controller
-/collect-driver
-/common
-/spring-boot-starter-dubbo
+/*/
 ### IntelliJ IDEA ###
 .idea
 *.iml
