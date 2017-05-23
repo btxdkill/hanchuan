@@ -15,8 +15,8 @@
     </dependencyManagement>
 
     <modules>
-        <module>collect-controller</module>
-        <module>collect-driver</module>
+        <module>agent</module>
+        <module>connector</module>
         <module>common</module>
         <module>driver-modbusip</module>
         <module>driver-sdk</module>
@@ -24,5 +24,6 @@
         <module>driver-fake</module>
         <module>driver-melsec</module>
         <module>driver-sql</module>
+        <module>modbus-emulator</module>
     </modules>
 </project>
