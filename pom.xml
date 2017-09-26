@@ -24,6 +24,7 @@
         <module>driver-fake</module>
         <module>driver-melsec</module>
         <module>driver-sql</module>
-        <module>modbus-emulator</module>
+        <module>driver-labview</module>
+        <module>driver-siemens</module>
     </modules>
 </project>
