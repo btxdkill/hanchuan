@@ -16,7 +16,6 @@
 
     <modules>
         <module>agent</module>
-        <module>connector</module>
         <module>common</module>
         <module>driver-modbusip</module>
         <module>driver-sdk</module>
