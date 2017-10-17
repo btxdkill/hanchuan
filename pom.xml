@@ -17,13 +17,13 @@
     <modules>
         <module>agent</module>
         <module>common</module>
-        <module>driver-modbusip</module>
+        <!--<module>driver-modbusip</module>-->
         <module>driver-sdk</module>
-        <module>driver-modbusserial</module>
-        <module>driver-fake</module>
-        <module>driver-melsec</module>
-        <module>driver-sql</module>
-        <module>driver-labview</module>
-        <module>driver-siemens</module>
+        <!--<module>driver-modbusserial</module>-->
+        <!--<module>driver-fake</module>-->
+        <!--<module>driver-melsec</module>-->
+        <!--<module>driver-sql</module>-->
+        <!--<module>driver-labview</module>-->
+        <!--<module>driver-siemens</module>-->
     </modules>
 </project>
