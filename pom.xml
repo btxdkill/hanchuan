@@ -25,5 +25,6 @@
         <module>driver-sql</module>
         <module>driver-labview</module>
         <module>driver-siemens</module>
+        <module>driver-opcua</module>
     </modules>
 </project>
